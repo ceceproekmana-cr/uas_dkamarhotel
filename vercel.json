@@ -11,7 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "gateway01.ap-southeast-1.prod.alicloud.tidbcloud.com",
+        "APP_URL": "https://uas-dkamarhotel-git-main-ceceproekmana-8937s-projects.vercel.app/",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
